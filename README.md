@@ -12,6 +12,7 @@ Spring MVC 패턴를 이용한 게시판
 ![Static Badge](https://img.shields.io/badge/springboot_2.6.13-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/apachemaven_3.8.5-%23C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/openjdk_11-437291?style=for-the-badge&logo=openjdk&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Querydsl_5.0.0-blue?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/thymeleaf_3.0.15.RELEASE-%23005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
 ## How to Run
