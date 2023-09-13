@@ -17,27 +17,35 @@ Spring MVC 패턴를 이용한 게시판
 
 ## How to Run
 
+You must run the command from the project folder.
+
 ```
 mvn clean
 mvn install
+```
 
+The main method must be executed in IntelliJ.
+
+```
 Run 'Demo12Application'
 ```
+
+* Before starting, you need to add application.properties to the Resources folder.
 
 ## Functions
 
 * 메인 화면
 
-<img src="https://github.com/namjaegyeong/BoardMVC/assets/57249939/ec3759b0-5823-4f7e-8c2a-20042d428ef9" width="450px" height="300px" title="메인 화면" alt="MainScreen"></img>
+![MainScreen](https://github.com/namjaegyeong/BoardMVC/assets/57249939/ec3759b0-5823-4f7e-8c2a-20042d428ef9)
 
 * 게시글 목록
 
-<img src="https://github.com/namjaegyeong/BoardMVC/assets/57249939/41fc15e9-4025-40d0-bb0b-bc337ee21e3c" width="450px" height="300px" title="메인 화면" alt="MainScreen"></img>
+![BoardList](https://github.com/namjaegyeong/BoardMVC/assets/57249939/41fc15e9-4025-40d0-bb0b-bc337ee21e3c)
 
 * 게시글 상세 보기
 
-<img src="https://github.com/namjaegyeong/BoardMVC/assets/57249939/ff2ff708-379e-4536-8de7-1f98c9b2f73b" width="450px" height="300px" title="메인 화면" alt="MainScreen"></img>
+![ViewDetails](https://github.com/namjaegyeong/BoardMVC/assets/57249939/ff2ff708-379e-4536-8de7-1f98c9b2f73b)
 
 * 게시글 등록
 
-<img src="https://github.com/namjaegyeong/BoardMVC/assets/57249939/c30a7c85-a47c-4d10-b16b-0f3cb0d7672a" width="450px" height="300px" title="메인 화면" alt="MainScreen"></img>
+![Register](https://github.com/namjaegyeong/BoardMVC/assets/57249939/c30a7c85-a47c-4d10-b16b-0f3cb0d7672a)
