@@ -17,7 +17,7 @@ Spring MVC 패턴를 이용한 게시판
 
 ## How to Run
 
-You must run the command from the project folder.
+* You must run the command from the project folder.
 
 ```
 mvn clean
@@ -27,7 +27,7 @@ mvn install
 * The main method must be executed in IntelliJ.
 
 ```
-* Run 'Demo12Application'
+Run 'Demo12Application'
 ```
 
 * Before starting, you need to add application.properties to the Resources folder.
