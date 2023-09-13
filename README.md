@@ -24,10 +24,10 @@ mvn clean
 mvn install
 ```
 
-The main method must be executed in IntelliJ.
+* The main method must be executed in IntelliJ.
 
 ```
-Run 'Demo12Application'
+* Run 'Demo12Application'
 ```
 
 * Before starting, you need to add application.properties to the Resources folder.
